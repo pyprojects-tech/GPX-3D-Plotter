@@ -18,7 +18,6 @@ import plotly.io as pio
 import plotly.express as px
 pio.templates.default = "ggplot2"
 
-
 app = dash.Dash()
 application = app.server
 
